@@ -58,6 +58,7 @@ img {
     font-size: 20px;
     line-height: 30px;
     letter-spacing: 1.2px;
+    text-align: justify;
 }
 
 .biography_section {
@@ -74,4 +75,10 @@ img {
 
 .biography_section ul li {
     margin-bottom: 15px;
+}
+footer{
+    margin: 50px 0;
+}
+footer p{
+    text-align: end;
 }
